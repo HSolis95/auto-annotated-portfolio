@@ -2,6 +2,8 @@
 
 ![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b971f6a7-f83e-40c9-9706-066f988b175d/deploy-status)](https://app.netlify.com/sites/heber-site-portfolio/deploys)
+
 This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
 The codebase showcases **how to apply annotations at scale**, meaning: how to make much of your components [highlightable in the visual editor](https://docs.netlify.com/visual-editor/visual-editing/inline-editor/) through data attributes without manually adding code throughout the codebase.
